@@ -32,7 +32,7 @@ public class HelloFirefoxImdbTest {
   }
   @Test
   public void helloImdb() {
-    // Test name: HelloImdb
+    // Test name: HelloImdb The Flash
     // Step # | name | target | value
     // 1 | open | / | 
     driver.get("https://www.imdb.com/");
